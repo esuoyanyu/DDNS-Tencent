@@ -4,6 +4,8 @@ rigion=""
 timestamp=""
 version=""
 
+LOG_TARGET="Tencet DDNS IPV6"
+
 secret_id="Tencent Secret ID, You Can Set it to ENV"
 secret_key="Tencent Secret KEY, You Can Set it to ENV"
 
